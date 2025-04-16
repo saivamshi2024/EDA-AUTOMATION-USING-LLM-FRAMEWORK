@@ -54,6 +54,8 @@ The Process to set up the project in local machine
 ![Age_distribution](https://github.com/user-attachments/assets/9a61440d-9f87-4fe6-bc83-11b20e269505)
 ![PassengerId_distribution](https://github.com/user-attachments/assets/69cc0871-f71b-4d17-be3c-6375e8837645)
 ![correlation_heatmap](https://github.com/user-attachments/assets/fbe66e4d-363c-4d23-9b04-ff6799a0b57f)
+![Image](https://github.com/user-attachments/assets/17690ef7-dc05-4148-871c-f5bc7fe2e5f1)
+![Image](https://github.com/user-attachments/assets/efeef8b2-a062-4119-8a1a-e9907bbb24c6)
 
 
 
