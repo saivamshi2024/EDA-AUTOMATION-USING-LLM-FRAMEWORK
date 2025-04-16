@@ -1,0 +1,2 @@
+# EDA-AUTOMATION-USING-LLM-FRAMEWORK
+using Mistral, Gradio.
